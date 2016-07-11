@@ -1,7 +1,6 @@
 ﻿[
 {
 "web_title"":"EQL - Homie |血壓計",
-"change_dropdown_title":"TW - 繁體中文",
 "lang_navlink1":"功能特色",
 "lang_navlink2":"產品規格",
 "lang_navlink3":"Order",
@@ -44,7 +43,6 @@
 },
 {
 "web_title"":"EQL - Homie |Blood Pressure Monitor",
-"change_dropdown_title":"EN - English",
 "lang_navlink1":"Feature",
 "lang_navlink2":"Specification",
 "lang_navlink3":"Order",
@@ -87,7 +85,6 @@
 },
 {
 "web_title"":"EQL - Homie |JP -Blood Pressure Monitor",
-"change_dropdown_title":"JP - 日本語",
 "lang_navlink1":"JP - Feature",
 "lang_navlink2":"JP - Specification",
 "lang_navlink3":"JP - Order",
