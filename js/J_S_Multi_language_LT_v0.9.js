@@ -90,7 +90,6 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('nav_link5_wording').innerHTML = arr[lang_index].NavLink5;*/
 
   document.getElementById('web_title').innerHTML = arr[lang_index].web_title;
-  document.getElementById('change_dropdown_title').innerHTML = arr[lang_index].change_dropdown_title;
   document.getElementById('lang_navlink1').innerHTML = arr[lang_index].lang_navlink1;
   document.getElementById('lang_navlink2').innerHTML = arr[lang_index].lang_navlink2;
   document.getElementById('lang_navlink3').innerHTML = arr[lang_index].lang_navlink3;
